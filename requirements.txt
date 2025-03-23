@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+openai
+pdfplumber
+python-docx
+flask
